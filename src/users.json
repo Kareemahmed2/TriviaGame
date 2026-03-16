@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alice",
+    "username": "alice",
+    "password": "pass123",
+    "scoreHistory": [
+      "SinglePlayer | Score: 3/5 | Difficulty: EASY | 2026-03-01",
+      "Multiplayer  | Score: 7/10 | Difficulty: MEDIUM | 2026-03-05"
+    ]
+  },
+  {
+    "name": "Bob",
+    "username": "bob",
+    "password": "pass456",
+    "scoreHistory": []
+  }
+]

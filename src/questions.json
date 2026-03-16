@@ -1,0 +1,72 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "category": "GEOGRAPHY",
+    "difficulty": "EASY",
+    "choices": ["A. Paris", "B. London", "C. Berlin", "D. Madrid"],
+    "correctAnswer": "A"
+  },
+  {
+    "text": "What is 12 x 12?",
+    "category": "MATH",
+    "difficulty": "EASY",
+    "choices": ["A. 132", "B. 144", "C. 124", "D. 156"],
+    "correctAnswer": "B"
+  },
+  {
+    "text": "What is the chemical symbol for Gold?",
+    "category": "SCIENCE",
+    "difficulty": "MEDIUM",
+    "choices": ["A. Go", "B. Gd", "C. Au", "D. Ag"],
+    "correctAnswer": "C"
+  },
+  {
+    "text": "Which planet has the most moons?",
+    "category": "SCIENCE",
+    "difficulty": "MEDIUM",
+    "choices": ["A. Jupiter", "B. Saturn", "C. Uranus", "D. Neptune"],
+    "correctAnswer": "B"
+  },
+  {
+    "text": "What is the longest river in the world?",
+    "category": "GEOGRAPHY",
+    "difficulty": "MEDIUM",
+    "choices": ["A. Amazon", "B. Congo", "C. Yangtze", "D. Nile"],
+    "correctAnswer": "D"
+  },
+  {
+    "text": "What is the derivative of sin(x)?",
+    "category": "MATH",
+    "difficulty": "HARD",
+    "choices": ["A. -cos(x)", "B. cos(x)", "C. tan(x)", "D. -sin(x)"],
+    "correctAnswer": "B"
+  },
+  {
+    "text": "What is the speed of light in a vacuum (approx)?",
+    "category": "SCIENCE",
+    "difficulty": "HARD",
+    "choices": ["A. 3x10^6 m/s", "B. 3x10^7 m/s", "C. 3x10^8 m/s", "D. 3x10^9 m/s"],
+    "correctAnswer": "C"
+  },
+  {
+    "text": "How many continents are there on Earth?",
+    "category": "GEOGRAPHY",
+    "difficulty": "EASY",
+    "choices": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "correctAnswer": "C"
+  },
+  {
+    "text": "What is the value of Pi (to 2 decimal places)?",
+    "category": "MATH",
+    "difficulty": "EASY",
+    "choices": ["A. 3.12", "B. 3.14", "C. 3.16", "D. 3.41"],
+    "correctAnswer": "B"
+  },
+  {
+    "text": "What is the powerhouse of the cell?",
+    "category": "SCIENCE",
+    "difficulty": "EASY",
+    "choices": ["A. Nucleus", "B. Ribosome", "C. Mitochondria", "D. Golgi apparatus"],
+    "correctAnswer": "C"
+  }
+]
