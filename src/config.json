@@ -1,0 +1,8 @@
+{
+  "questionDurationSeconds": 15,
+  "minPlayersPerTeam": 1,
+  "maxPlayersPerTeam": 4,
+  "pointsEasy": 1,
+  "pointsMedium": 2,
+  "pointsHard": 3
+}
