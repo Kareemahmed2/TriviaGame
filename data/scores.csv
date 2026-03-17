@@ -1,0 +1,7 @@
+username,timestamp,mode,room,team,points,correct,incorrect
+HusamAbozide,2026-03-14 17:32:16,SINGLE,-,SOLO,18,2,1
+HusamAbozide,2026-03-14 17:41:28,MULTI,room1,TeamA,30,3,0
+alice,2026-03-14 17:41:28,MULTI,room1,TeamB,30,3,0
+alice,2026-03-16 13:42:30,SINGLE,-,SOLO,30,3,0
+carol,2026-03-16 14:28:54,MULTI,ROOM1,TEAM1,30,3,0
+alice,2026-03-16 14:28:54,MULTI,ROOM1,TEAM2,6,1,2
